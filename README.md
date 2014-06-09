@@ -1,0 +1,4 @@
+FOSSAL
+======
+
+Repository for coursework
