@@ -1,4 +1,8 @@
-Kiva.org
+#Survey of Existing Open Source Projects
+Rebecca Hardy
+06/15/14
+
+**Kiva.org**
 
 Kiva is a non-profit based in San Francisco, CA, who provides microloans on five continents where traditional banking is not available. These funds go to helping individuals establish small businesses that can grow and become successful from small donations from people around the world. These individuals are able to easily pay back their loans (Kiva’s repayment rate is currently 98.84%) and can take small, incremental steps to financial success. There is little risk to lenders, who can pay as little as $25, and can receive that paid back to them, or re-lend it to the same or a different project.
 
@@ -11,7 +15,7 @@ Documentation for the project is strong; on both Kiva’s build site as well as 
 On Kiva’s build site, it outlines several open source projects currently underway. Kiva needs its REST API (found here http://build.kiva.org/api) translated into into other languages, one of which is Java. There has already been quite a bit of progress made toward building a Java client library, but the Statistics portion is missing. Since I am passionate about Kiva’s cause, as well as statistics, this would be a perfect foray for my first contribution to open source. I can use one of these sources (https://github.com/kiva/API/tree/master/code) to access the API, and then contribute to a client library in Java. Many pieces of the API have already been translated, but I could contribute by building the Statistics portion of the client library so that Java users can access statistics in Java.
 
 
-R
+**R**
 
 R is a statistical computing language that is popular among Data Scientists and Analysts. It is free and open source; it is powerful for both computation as well as graphics. It began as an outgrowth of S, and now has an enthusiastic user base that encourages problem solving via open source. That is, users are encouraged to develop packages to solve the analytical problems they encounter and then share them with the community to make everyone’s life easier. There are currently 5,626 packages associated with R. One of the most popular is ggplot2, a graphics package that makes it easier for novice programmers to create vibrant graphs, tables, and charts.
 
@@ -25,7 +29,7 @@ R and ggplot2 both encourage good software engineering practices; the documentat
 
 Since ggplot2 is already so popular and widely used, many open source contributions have already been made. Hadley Wickham, who developed ggplot2, describes a few ways in which one could contribute, a couple of them creative: host an intern, hire a graduate student. Software-based contributions include adding new features or contribute documentation. 
 
-US Small Business Administration
+**US Small Business Administration**
 
 The open data movement, related to the open source movement, is an attempt by the US government to create transparency regarding its operations and share data with the public. As all of this data is online and accessible, it has become popular with developers. “Open Government Hack” meetings are a popular Meetup group in most locations, and there is a growing community around working with government data and developing applications for its use. 
 
